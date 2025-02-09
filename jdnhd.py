@@ -5,3 +5,9 @@ if Q and 300<N<700:
     print("N")
 else:
     print("s")
+    
+print(n)
+    
+    
+    
+    
